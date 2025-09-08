@@ -395,7 +395,7 @@
       "title": "Masky detekce pohybu",
       "desc": "Zobrazit polygony masek detekce pohybu"
     },
-    "debugging": "Ledění",
+    "debugging": "Ladění",
     "desc": "Ladicí zobrazení ukazuje sledované objekty a jejich statistiky v reálném čase. Seznam objektů zobrazuje časově zpožděný přehled detekovaných objektů.",
     "motion": {
       "title": "Rámečky detekce pohybu",
